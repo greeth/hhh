@@ -1,0 +1,30 @@
+{
+  "title": "hidehiko",
+  "description": "",
+  "artist": "kuroki",
+  "author": "hidehiko",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "ch 1",
+      "volume": "1",
+      "last_updated": "1678704902",
+      "groups": {
+        "": [
+          "https://cubari.moe/read/imgur/WRMjB77/",
+          "https://cubari.moe/read/imgur/OY5SuJO/"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1678705968",
+      "groups": {
+        "": [
+          "https://cubari.moe/read/imgur/OY5SuJO/"
+        ]
+      }
+    }
+  }
+}
