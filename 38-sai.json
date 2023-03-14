@@ -1,0 +1,17 @@
+{
+  "title": "38-sai",
+  "description": "38-sai",
+  "artist": "Kuroki Hidehiko",
+  "author": "Kuroki Hidehiko",
+  "cover": "https://i.imgur.com/8hgeGuz.png",
+  "chapters": {
+    "1": {
+      "title": "Retaliation",
+      "volume": "",
+      "last_updated": "1678781239",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ymwrhhL"
+      }
+    }
+  }
+}
