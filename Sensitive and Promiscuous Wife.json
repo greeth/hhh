@@ -3,6 +3,15 @@
   "description": "",
   "artist": "hidehiko",
   "author": "",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://i.imgur.com/z2kSkPW.png",
+  "chapters": {
+    "1": {
+      "title": "I saw my stepmother naked",
+      "volume": "",
+      "last_updated": "1682393998",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MhXbeeM"
+      }
+    }
+  }
 }
