@@ -260,7 +260,32 @@
       "volume": "",
       "last_updated": "1682077196",
       "groups": {
-        "": "/proxy/api/imgur/chapter/jJUTcOR"
+        "": [
+          "https://cdn.imgchest.com/files/b49zce8qddy.jpg",
+          "https://cdn.imgchest.com/files/l4necb6pd34.jpg",
+          "https://cdn.imgchest.com/files/p7bwc3nz5q7.jpg",
+          "https://cdn.imgchest.com/files/w7pjcbp3gp7.jpg",
+          "https://cdn.imgchest.com/files/d7ogcr3m9ay.jpg",
+          "https://cdn.imgchest.com/files/j7kzc9mjra7.jpg",
+          "https://cdn.imgchest.com/files/my2pc38gw27.jpg",
+          "https://cdn.imgchest.com/files/l7lxcjoqm97.jpg",
+          "https://cdn.imgchest.com/files/84jdc2qldz4.jpg",
+          "https://cdn.imgchest.com/files/pyq9cbowr54.jpg",
+          "https://cdn.imgchest.com/files/myd5c9d8v94.jpg",
+          "https://cdn.imgchest.com/files/3yrgcbeplw4.jpg",
+          "https://cdn.imgchest.com/files/j7mmcqedkm7.jpg",
+          "https://cdn.imgchest.com/files/wye3cw59k34.jpg",
+          "https://cdn.imgchest.com/files/my8xcvdjrq4.jpg",
+          "https://cdn.imgchest.com/files/k46ac8m2627.jpg",
+          "https://cdn.imgchest.com/files/b49zce8q5dy.jpg",
+          "https://cdn.imgchest.com/files/w7pjcbp3ep7.jpg",
+          "https://cdn.imgchest.com/files/my2pc38gb27.jpg",
+          "https://cdn.imgchest.com/files/84jdc2qlpz4.jpg",
+          "https://cdn.imgchest.com/files/p7bwc3nl697.jpg",
+          "https://cdn.imgchest.com/files/w7pjcbpvnm7.jpg",
+          "https://cdn.imgchest.com/files/d7ogcr3ea8y.jpg",
+          "https://cdn.imgchest.com/files/j7kzc9mzp97.jpg"
+        ]
       }
     }
   }
