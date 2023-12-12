@@ -64,7 +64,18 @@
       "volume": "",
       "last_updated": "1680969015",
       "groups": {
-        "": "/proxy/api/imgur/chapter/5mswH4I"
+        "": [
+          "https://cdn.imgchest.com/files/d7ogcr3e2by.jpg",
+          "https://cdn.imgchest.com/files/j7kzc9mz6d7.jpg",
+          "https://cdn.imgchest.com/files/my2pc38jmp7.jpg",
+          "https://cdn.imgchest.com/files/l7lxcjokv37.jpg",
+          "https://cdn.imgchest.com/files/84jdc2qoaw4.jpg",
+          "https://cdn.imgchest.com/files/pyq9cboxjb4.jpg",
+          "https://cdn.imgchest.com/files/myd5c9dnwx4.jpg",
+          "https://cdn.imgchest.com/files/3yrgcbemqv4.jpg",
+          "https://cdn.imgchest.com/files/j7mmcqe2bv7.jpg",
+          "https://cdn.imgchest.com/files/k739cbdaqw7.jpg"
+        ]
       }
     },
     "4": {
