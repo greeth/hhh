@@ -180,7 +180,16 @@
       "volume": "",
       "last_updated": "1681216703",
       "groups": {
-        "": "/proxy/api/imgur/chapter/WRRKot6"
+        "": [
+          "https://cdn.imgchest.com/files/myd5cx6x2o4.jpg",
+          "https://cdn.imgchest.com/files/3yrgcw2wdg4.jpg",
+          "https://cdn.imgchest.com/files/j7mmclplxj7.jpg",
+          "https://cdn.imgchest.com/files/k739covorm7.jpg",
+          "https://cdn.imgchest.com/files/w7w6cgdgwry.jpg",
+          "https://cdn.imgchest.com/files/wye3cjmjnd4.jpg",
+          "https://cdn.imgchest.com/files/g4z9cn5np97.jpg",
+          "https://cdn.imgchest.com/files/e4gdclqlzo4.jpg"
+        ]
       }
     },
     "8": {
